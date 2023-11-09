@@ -20,3 +20,5 @@ This project will comprise two phases: Phase-1 and Phase-2
 	Imported Pretrained Deepface model and Applied to the DataSet
 
 For Phase-1 we added 15 classes from course CS550 (different persons) pictures for our models to train on them.
+Here is the Github Link - 
+	https://github.com/arnavwinner/ML_Project.git
