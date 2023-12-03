@@ -22,3 +22,10 @@ This project will comprise two phases: Phase-1 and Phase-2
 For Phase-1 we added 15 classes from course CS550 (different persons) pictures for our models to train on them.
 Here is the Github Link - 
 	https://github.com/arnavwinner/ML_Project.git
+ 
+ ## Final Phase
+
+Objectives of the `Final Phase`
+
+ 1. Extracting faces from a group image.
+ 2. Classifying each face based on the available dataset.
