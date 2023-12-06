@@ -10,8 +10,8 @@ The members of this project are as follows:
 
 **How to run?**
 	**This was made on google colab**
-	**Just upload ml_final_project.ipynb into google colab**
-	**import the zip file archive(3).zip**
+	**Just upload Final_Phase/ml_final_project.ipynb into google colab, after running, it will ask for uploading dataset**
+	**upload the zip file Final_Phase/archive(3).zip into google colab** 
 
 This project will comprise two phases: Phase-1 and Phase-2
 
