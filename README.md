@@ -8,6 +8,11 @@ The members of this project are as follows:
 2. `Aditya Tiwari`: 12140090, CSE
 3. `Arnav Gautam`: 12140280, CSE
 
+**How to run?**
+	**This was made on google colab**
+	**Just upload ml_final_project.ipynb into google colab**
+	**import the zip file archive(3).zip**
+
 This project will comprise two phases: Phase-1 and Phase-2
 
 ## Phase-1
